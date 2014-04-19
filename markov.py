@@ -32,6 +32,7 @@ class MarkovDict(object):
         random_key = int(random.random() * len(self.seed_counts.keys()))
         start_seed = self.seed_counts.keys()[random_key]
 
+        #maximum = 2
         #for seed in self.seed_counts:
         #    if len(self.seed_counts[seed]) > maximum:
         #        maximum = len(self.seed_counts[seed])
