@@ -14,17 +14,20 @@ def main():
         access_token_secret=access_token_secret
     )
 
-    text = open("corpus.html")
-    soup = BeautifulSoup(text)
-    import ipdb; ipdb.set_trace()
-    mdict = MarkovDict("", int(2), 129)
+    text = open("redone_final.txt")
+    filetext = text.read()
+    text.close()
+
+    mdict = MarkovDict(filetext, int(2), 122)
     mdict.read_text()
     markov_text = mdict.output_text()
+    for x in ["redis", "mariadb", "mysql", "postgresql", "couchdb"]:
+        markov_text = markov_text.lower().replace(x, "olegdb")
 
     if debug is False:
         status = api.PostUpdate('Beware I live.')
     else:
-        print "Want to post: {}".format(markov_text)
+        print "{}".format(markov_text)
 
 if __name__ == '__main__':
     main()
