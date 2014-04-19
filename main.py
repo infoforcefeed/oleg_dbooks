@@ -5,7 +5,7 @@ from markov import MarkovDict
 from bs4 import BeautifulSoup
 import twitter
 
-debug = True
+debug = False
 
 def main():
     api = twitter.Api(consumer_key=consumer_key,
@@ -25,7 +25,7 @@ def main():
         markov_text = markov_text.lower().replace(x, "olegdb")
 
     if debug is False:
-        status = api.PostUpdate('Beware I live.')
+        status = api.PostUpdate(markov_text)
     else:
         print "{}".format(markov_text)
 
