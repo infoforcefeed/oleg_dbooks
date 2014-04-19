@@ -1,5 +1,17 @@
 Twitter markov thing for OlegDB.
 
+Generating Corpus
+-----------------
+
+I scraped all of the feeds I wanted by hand with chrome and just saved them in a
+file. Then:
+
+````
+./prepare_html.sh
+./prepare_step2.py && wc -l prepared3.txt && cat prepared3.txt | sort | uniq > prepared4.txt
+cp prepared4.txt redone_final.txt
+````
+
 Running
 -------
 
