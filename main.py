@@ -10,5 +10,7 @@ def main():
         access_token_secret=access_token_secret
     )
 
+    #status = api.PostUpdate('Beware I live.')
+
 if __name__ == '__main__':
     main()
