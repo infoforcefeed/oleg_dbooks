@@ -2,7 +2,6 @@
 from local_settings import consumer_key, consumer_secret, access_token_key,\
         access_token_secret
 from markov import MarkovDict
-from bs4 import BeautifulSoup
 import twitter
 
 debug = False
