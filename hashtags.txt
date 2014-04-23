@@ -1,103 +1,139 @@
-    890 #MySQL
-    275 #riak
+    903 #MySQL
+    404 #VoltDB
+    311 #nosql
+    279 #riak
     185 #MySQLConnect
-    154 #nosql
+    178 #bigdata
+    177 #database
+    149 #mysql
+    146 #newsql
     133 #Riak
-    128 #opensource
+    129 #opensource
     124 #couchdb
-    122 #database
-    117 #mysql
+    122 #NoSQL
+    106 #NewSQL
     102 #cassandra
+     97 #nodejs
      94 #MongoDB
+     91 #BigData
+     89 #datomic
      83 #ricon2012
+     82 #sql
      81 #LAMP
      81 #CouchDB
      79 #riconeast
+     75 #Oracle
      72 #MongoDBWorld
-     71 #Oracle
-     67 #NoSQL
-     64 #MariaDB
+     65 #MariaDB
+     63 #DBMS
      62 #riconwest
      61 #rethinkdb
-     58 #DBMS
+     56 #voltdb
      55 #MongoDBDays
      54 #mariadb
      52 #RICON2012
-     49 #nodejs
-     45 #mongodb
+     48 #Java
+     48 #Datomic
+     46 #mongodb
+     44 #Nodejs
+     44 #erlang
      43 #pgeast
-     41 #erlang
-     36 #Cassandra
-     32 #Nodejs
-     30 #redis
+     39 #SQL
+     37 #Cassandra
+     31 #redis
      30 #Cluster
      29 #Windows
      29 #leveldb
-     29 #Java
+     28 #Stonebraker
      27 #PgWest
+     27 #perconalive
      27 #mongodbdays
+     27 #Database
      26 #WAMP
-     26 #perconalive
+     26 #javascript
+     26 #java
+     26 #Hadoop
      25 #couchconf
+     24 #Strangeloop
      24 #RethinkDB
+     23 #PHP
      23 #PgEast
      21 #ruby
-     20 #PHP
+     21 #mobile
+     21 #dbms
      19 #mysqlconnect
+     19 #Erlang
+     18 #strangeloop
+     18 #hadoop
      17 #community
      17 #ayb12
+     17 #analytics
+     16 #gaming
+     16 #DMRadio
      15 #sponsors
      15 #python
      15 #OSCON
+     15 #memcached
      15 #HA
      15 #GoLang
+     15 #Actuate
+     14 #php
      14 #MongoNYC
      14 #1
      13 #OSDB
      13 #OpenSource
-     13 #javascript
      13 #couchbond
+     13 #clojure
+     13 #bbuzz
      13 #2
+     12 #databases
+     12 #cloud
+     11 #Voltdb
      11 #user
+     11 #springsource
      11 #SkySQL
-     11 #php
+     11 #postgresql
      11 #MySQLtShirts
-     11 #Hadoop
-     11 #Database
      11 #couchdbconf
      10 #Ruby
+     10 #Redis
+     10 #realtime
+     10 #OLTP
      10 #MySQLCluster
+     10 #Linux
      10 #devops
+     10 #Bigdata
       9 #speakers
-      9 #Redis
+      9 #RDBMS
       9 #Python
-      9 #postgresql
       9 #PerconaLive
+      9 #percona
       9 #OpenWorld
       9 #OEM
-      9 #Linux
-      9 #java
-      9 #BigData
-      8 #strangeloop
+      9 #inmemory
+      9 #hiring
+      9 #AWS
+      9 #aws
       8 #security
       8 #replication
       8 #PGEast
-      8 #percona
+      8 #oscon
+      8 #NYC
+      8 #NodeJS
       8 #Newsletter
       8 #MySQLSunday
-      8 #mobile
       8 #London
       8 #golang
       8 #GeoCouch
+      8 #Facebook
       8 #Enterprise
-      8 #bigdata
-      8 #bbuzz
+      8 #ec2
+      8 #bi
       7 #Workbench
       7 #Webinar
-      7 #SQL
+      7 #stonebrakerlive
       7 #rails
       7 #PostgreSQL
-      7 #oscon
       7 #Microsoft
       7 #meetup
       7 #jsconf
@@ -105,170 +141,215 @@
       7 #ISV
       7 #InnoDB
       7 #FOSDEM
-      7 #Erlang
-      7 #cloud
+      7 #data
+      7 #Boston
       7 #Berlin
       7 #basho
       7 #awsreinvent
       7 #404
       6 #Ubuntu
       6 #training
+      6 #springframework
+      6 #scalability
       6 #Scala
+      6 #retail
       6 #Replication
       6 #redisconf
       6 #pgconfnyc
       6 #mosql
       6 #MongoDB26
+      6 #machomebrew
       6 #JDBC
       6 #issuecomment
       6 #fosdem
+      6 #Erlvolt
       6 #erlangfactory
       6 #Embedded
       6 #download
+      6 #couchbase
       6 #couchapp
-      6 #clojure
-      6 #AWS
+      6 #Cloud
+      6 #BigDataTechCon
       6 #Apache
       5 #wercker
       5 #webmachine
       5 #Web
       5 #Training
+      5 #surgecon
+      5 #Spring
       5 #Scalability
-      5 #scalability
       5 #riakcs
       5 #qconsf
       5 #pouchdb
       5 #postgres
       5 #pgwest
       5 #performance
+      5 #oracle
       5 #OpenStack
       5 #OOW
-      5 #NYC
+      5 #Node
+      5 #node
       5 #MEAN
       5 #MaxScale
-      5 #machomebrew
+      5 #JSON
       5 #geocouch
       5 #GDC
+      5 #ecommerce
       5 #Dublin
+      5 #developers
       5 #Developer
-      5 #couchbase
-      5 #Cloud
+      5 #Clojure
       5 #AngularJS
       5 #Android
       5 #3
+      4 #voltDB
       4 #videos
       4 #Twitter
+      4 #sqlserver
       4 #skysql
       4 #ricon
+      4 #rdbms
       4 #RabbitMQ
       4 #puppetize
       4 #ORCL_Linux
       4 #opendata
       4 #OEMs
+      4 #noSQL
       4 #nodeconf
-      4 #node
       4 #news
+      4 #neo4j
       4 #mysqlconf
       4 #MongoDB24
+      4 #mongoDB
       4 #mailing
       4 #linux
       4 #jsconfeu
       4 #jquery
+      4 #jobs
+      4 #JavaScript
       4 #ISVs
       4 #iOS
-      4 #hadoop
+      4 #in
+      4 #Groovy
       4 #gotocph
       4 #gis
       4 #GDC2014
       4 #Galera
       4 #FILive
-      4 #Facebook
+      4 #FF
+      4 #Eonblast
+      4 #digitalmedia
       4 #DBA
       4 #Data
       4 #couchDB
       4 #Couchbase
       4 #CorrugatedIron
+      4 #clojurewest
       4 #Budapest
+      4 #BI
       4 #backup
+      4 #Analytics
+      4 #A1Live
       4 #801
+      4 #10gen
       3 #Zend
       3 #yescql
       3 #win
       3 #webinar
+      3 #velocity
       3 #Tornado
       3 #tornado
+      3 #Telecoms
       3 #TBT
+      3 #stonebraker
       3 #Stockholm
+      3 #startup
       3 #solr
+      3 #software
       3 #schedule
+      3 #scalable
       3 #scala
+      3 #rockstarjobs
       3 #ripple
       3 #RICONEast
-      3 #RDBMS
+      3 #Realtime
       3 #QConLondon
+      3 #QCon
       3 #PyCon
       3 #PGXN
       3 #Performance
       3 #Paris
       3 #oow11
       3 #oow
+      3 #NoSQLNow
       3 #NordicGame
-      3 #neo4j
       3 #Munich
       3 #Monitor
-      3 #mongoDB
       3 #Milan
-      3 #memcached
+      3 #marketing
       3 #MariaDB10
       3 #mariaDB
       3 #MapReduce
       3 #magento
+      3 #lucene
+      3 #Lua
       3 #levelup
       3 #JVM
       3 #json
-      3 #jobs
-      3 #JavaScript
       3 #HTML5
+      3 #HP
       3 #how
       3 #homebrew
       3 #haskell
+      3 #hackathon
+      3 #gotocon
       3 #GoBlue
+      3 #GitHub
       3 #ftw
+      3 #fintech
       3 #filive
+      3 #ff
       3 #fb
       3 #express
       3 #Excel
       3 #euruko
       3 #Essentials
       3 #ErlangFactory
+      3 #epicdev
       3 #EMEA
       3 #emberjs
+      3 #EC2
       3 #dtrace
       3 #Drupal
       3 #dotnet
       3 #devopsdays
       3 #DevOps
+      3 #developer
       3 #debian
       3 #DBaaS
-      3 #data
+      3 #dba
+      3 #db
       3 #csharp
       3 #cql
       3 #Connector
       3 #Community
       3 #comment
+      3 #ClueCon
       3 #cloudstack
-      3 #clojurewest
-      3 #Clojure
       3 #cfs
+      3 #bnt27
       3 #BigDataParis
       3 #Basho
       3 #Barcelona
       3 #Backup
+      3 #awesome
       3 #APAC
-      3 #10gen
+      3 #6
+      3 #4
       2 #zeromq
       2 #zendeskR
       2 #zendcon
+      2 #yum
       2 #yow_oz
       2 #wnyruby
       2 #WindowsAzure
@@ -280,6 +361,7 @@
       2 #Vienna
       2 #venue
       2 #velocityconf
+      2 #Velocity
       2 #Vancouver
       2 #vagrant
       2 #uulm
@@ -287,19 +369,25 @@
       2 #UK
       2 #ubuntu
       2 #twitter
+      2 #topicmaps
       2 #tomcat
       2 #tokyo
       2 #thinky
       2 #TheCUBE
+      2 #telco
+      2 #TDC2011
       2 #SyncConf
-      2 #surgecon
+      2 #strataconf
       2 #StrangeLoop
       2 #storage
-      2 #startup
+      2 #socialgames
+      2 #social
       2 #SMB
+      2 #smartgrid
       2 #slide4
       2 #sleepMore
       2 #Singapore
+      2 #simulant
       2 #SiliconCape
       2 #Shanghai
       2 #seminar
@@ -318,12 +406,15 @@
       2 #riak_core
       2 #RHSummit
       2 #rethink
+      2 #retailers
       2 #resources
       2 #RedHat
-      2 #rdbms
+      2 #Recruit
+      2 #RAM
       2 #rabbitmq
       2 #Query
       2 #qconnewyork
+      2 #qcon
       2 #q
       2 #Python3
       2 #pyconza
@@ -339,18 +430,21 @@
       2 #oss
       2 #os_group
       2 #osgeo
-      2 #oracle
       2 #openwest
       2 #openSUSE
       2 #OMG
+      2 #oltp
       2 #OCaml
       2 #NYCFUG
-      2 #NoSQLNow
+      2 #nuac
+      2 #noswl
+      2 #nosqlnow
       2 #nosql14
       2 #NoSql
-      2 #noSQL
-      2 #NodeJS
-      2 #Node
+      2 #nginx
+      2 #newSQL
+      2 #NEDB14
+      2 #ndcoslo
       2 #MySQLWorkbench
       2 #mysqlworkbench
       2 #mysqlcluster
@@ -358,64 +452,67 @@
       2 #MOOC
       2 #Mooc
       2 #mongosf
+      2 #MIT
       2 #merge
-      2 #marketing
       2 #lxjs
-      2 #lucene
+      2 #Luerl
       2 #LuaLang
       2 #love
       2 #logstash
       2 #Lisbon
+      2 #lightning
       2 #LevelDB
       2 #lazyweb
       2 #lambdajam
-      2 #JSON
       2 #jedis
       2 #Japan
       2 #I_use_CouchDB_on_a_remote_server_and_I_don
       2 #irc
       2 #ioug
       2 #IoT
-      2 #in
+      2 #Inmemory
       2 #html5
-      2 #HP
+      2 #HPVertica
       2 #HBase
       2 #hbase
       2 #gsoc
+      2 #groovy
       2 #graphite
-      2 #gotocon
       2 #gotoAMS
       2 #Google
       2 #glazier
+      2 #github
+      2 #git
       2 #geo
       2 #Geneva
       2 #Geek2Geek
       2 #geek2geek
+      2 #GDC2012
+      2 #gamer
       2 #galera
       2 #Firewall
       2 #Finland
       2 #ExpressJS
       2 #experience_core
+      2 #excited
       2 #events
+      2 #EUC2012
       2 #euc2011
       2 #esri
       2 #ensw
+      2 #engineers
       2 #embedded
       2 #education
       2 #Edinburgh
-      2 #EC2
-      2 #ec2
       2 #dynamo
       2 #distributedsystems
       2 #diginomica
+      2 #developerWorks
       2 #developervelocity
-      2 #developers
-      2 #developer
       2 #deNA
       2 #delicious
-      2 #dbms
-      2 #dba
-      2 #databases
+      2 #datascience
+      2 #Databases
       2 #Dallas
       2 #CRDTs
       2 #couchone
@@ -423,42 +520,53 @@
       2 #CouchApp
       2 #corrugatediron
       2 #coffeescript
+      2 #codeq
+      2 #CodeMesh
       2 #codemash
       2 #codebits2012
       2 #cloudstorage
+      2 #Cloudera
+      2 #cloudera
       2 #cloudant
       2 #CJS13
+      2 #CIO
       2 #ccevent
       2 #cassandradb
       2 #Cashpoint
       2 #buildMore
       2 #BigCouch
+      2 #Big
       2 #berlin
+      2 #benchmark
+      2 #baldisbeautiful
       2 #Azure
       2 #AYBconf
       2 #aybconf
       2 #ayb2012
       2 #AWSReinvent
-      2 #aws
-      2 #awesome
+      2 #awesomeness
+      2 #apps
       2 #applications
+      2 #application
       2 #ApacheCon
       2 #apache
       2 #angularjs
-      2 #analytics
       2 #Akka
       2 #akka
       2 #2330
       2 #2013
       1 #zimbra
+      1 #ZenKishimoto
       1 #Zeebox
       1 #zarafa
       1 #Zappos
       1 #zapier
+      1 #yummygoodness
       1 #YUI
       1 #yui
       1 #Youtube
       1 #Yokozuna
+      1 #yessql
       1 #yawn
       1 #YakShaving
       1 #xtractr
@@ -471,6 +579,7 @@
       1 #woohooo
       1 #wmbda
       1 #wireshark
+      1 #Wipro
       1 #winning
       1 #WindowsServer
       1 #windows
@@ -483,7 +592,9 @@
       1 #wifi
       1 #wien
       1 #wids2014
+      1 #wickedfastdatabase
       1 #whutcloud
+      1 #whoneedsloadbalancersanyway
       1 #when
       1 #wewantmore
       1 #weekendfun
@@ -498,14 +609,25 @@
       1 #webhost
       1 #Webcast
       1 #webcast
+      1 #webapp
       1 #WCKL
       1 #wcdb
       1 #WB
       1 #Washington
       1 #Warsaw
+      1 #VPS
       1 #voxer
+      1 #VoteDB
+      1 #Vote
+      1 #VoltVanguard
+      1 #VoltUseCases
+      1 #VoltU
+      1 #VoltLab
+      1 #voltdbthe
+      1 #VoltDB3
       1 #voip
       1 #VNode
+      1 #VMWare
       1 #VMware
       1 #Virtualization
       1 #virtualization
@@ -525,6 +647,7 @@
       1 #unix
       1 #unique
       1 #UI
+      1 #uberconf
       1 #UAE
       1 #TYPO3Flow
       1 #TX
@@ -535,14 +658,15 @@
       1 #tuning
       1 #tropo
       1 #trendsetter
+      1 #trends
       1 #transcription
       1 #TrafficServer
       1 #tPostgres
       1 #TOY
       1 #touchdb
-      1 #topicmaps
       1 #Tokyo
       1 #tokutek
+      1 #TokuDB
       1 #tokudb
       1 #tischfussball
       1 #tim
@@ -552,11 +676,14 @@
       1 #thenewtorrent
       1 #theCUBE
       1 #thebook
+      1 #thankgod
       1 #TelkomVision
-      1 #Telecoms
+      1 #Telecom
+      1 #telecom
       1 #Telco
       1 #tei
       1 #techworldawards
+      1 #TechPlanet
       1 #techdrinkup
       1 #TechCast
       1 #tech
@@ -579,6 +706,8 @@
       1 #surge2011
       1 #surge
       1 #support
+      1 #superzapper
+      1 #superpowers
       1 #Superbowl
       1 #sunnyvale
       1 #SunMicrosystems
@@ -586,9 +715,12 @@
       1 #SugarCon
       1 #succes
       1 #subversion
+      1 #StructureShow
       1 #structureeurope
       1 #streams
-      1 #strataconf
+      1 #streambase
+      1 #stbaldricks
+      1 #Startups
       1 #startups
       1 #StampedeCon
       1 #ssh
@@ -596,9 +728,8 @@
       1 #SQLServer
       1 #sqlite
       1 #sqlhelp
-      1 #sql
       1 #sproutcore
-      1 #Spring
+      1 #spring
       1 #Spider
       1 #spider
       1 #spatiotemporal
@@ -607,28 +738,32 @@
       1 #SoundCloud
       1 #sort2011
       1 #sort
+      1 #SoMoDat
       1 #Solr
       1 #solid
       1 #soldjaboy
-      1 #software
+      1 #SoftwareEngineer
       1 #SoftCon2013
       1 #socket
-      1 #social
+      1 #socbiz
       1 #soca
       1 #Snowquester
       1 #SnowLeopard
       1 #snowleopard
       1 #Smartphone
+      1 #SmartOS
       1 #smartos
       1 #SmartMetering
       1 #Smalltalk
       1 #Slony
       1 #Skype
+      1 #SKplanet
       1 #simply_stored
       1 #SimplyAccounting
       1 #siliconbeach
       1 #SIIM13
       1 #SIIM12
+      1 #Shopzilla
       1 #sharkswithlasers
       1 #sharepoint
       1 #sharding
@@ -642,12 +777,14 @@
       1 #servicestack
       1 #serverdensity
       1 #Server
+      1 #SEOMoz
       1 #sentinel
       1 #Seminars
       1 #Seminar
       1 #self2012
       1 #secretproject
       1 #sean
+      1 #Seahawks
       1 #SDTimes
       1 #scotruby
       1 #scotlandjs
@@ -656,7 +793,8 @@
       1 #scaleconf
       1 #scale
       1 #scaladays
-      1 #scalable
+      1 #sb70
+      1 #SAP
       1 #santaclara
       1 #SanFrancisco
       1 #Salesfor
@@ -687,6 +825,7 @@
       1 #riak1
       1 #RHEL
       1 #Rethinkdb
+      1 #Retailers
       1 #resque
       1 #resolution
       1 #request
@@ -701,8 +840,10 @@
       1 #redhatsummit
       1 #redhat
       1 #reddis
+      1 #Redbones
       1 #realtimeconfeu
-      1 #realtime
+      1 #RealTime
+      1 #reaktordevday
       1 #readingsaveslives
       1 #reactive
       1 #rdf
@@ -713,6 +854,7 @@
       1 #rar10
       1 #railswaycon
       1 #Rack
+      1 #quil
       1 #Quickstart
       1 #queryforlove
       1 #query
@@ -720,7 +862,6 @@
       1 #QConNewYork
       1 #QconLondon
       1 #qconlondon
-      1 #qcon
       1 #pythonfosdem
       1 #pythian
       1 #PyConZA
@@ -735,14 +876,17 @@
       1 #PropEr
       1 #promises
       1 #ProjectFiFo
+      1 #programming
       1 #programacao
       1 #PRJ
+      1 #Presto
       1 #prefix
       1 #predisserviceprovider
       1 #predis
       1 #prague
       1 #PouchDB
       1 #potter
+      1 #Postgres
       1 #PostGIS
       1 #postgis
       1 #posscon
@@ -753,9 +897,11 @@
       1 #planetpostgresql
       1 #phpunconf
       1 #phpbnl11
+      1 #php5
       1 #photos
       1 #phonegap
       1 #Phoenix
+      1 #phillytechweek
       1 #phillyete
       1 #philanthropy
       1 #Pharo
@@ -785,10 +931,13 @@
       1 #partitioning
       1 #pagination
       1 #p2p
+      1 #OWASP
+      1 #overtherainbow
       1 #OTN
       1 #oss2012
       1 #OSS
       1 #osdc
+      1 #oscond
       1 #orientdb
       1 #oredev
       1 #OracleVM
@@ -800,11 +949,13 @@
       1 #opschef
       1 #Oporto
       1 #oplog
+      1 #Operational
       1 #opensuse
       1 #openstreetmap
       1 #opensqlcamp
       1 #opensourece
       1 #opensourceisgood
+      1 #Openshift
       1 #OpenData
       1 #opencompute
       1 #open
@@ -812,6 +963,7 @@
       1 #OOW13
       1 #Online
       1 #onepointfive
+      1 #OmniTI
       1 #omgomgomg
       1 #OfflineFirst
       1 #offline
@@ -822,8 +974,10 @@
       1 #ocphp
       1 #Obama
       1 #NYETM
+      1 #NYDBM
       1 #nyc
       1 #NY
+      1 #nuoDB
       1 #null2
       1 #NSA
       1 #nprserendipity
@@ -831,6 +985,7 @@
       1 #npm
       1 #Novell
       1 #novacut
+      1 #notlazy
       1 #nosqlx
       1 #nosqlsm
       1 #nosqlrs
@@ -838,21 +993,31 @@
       1 #NoSQL14
       1 #nosql13
       1 #noob
+      1 #nonrelational
       1 #nokogiri
       1 #NodeSummit
+      1 #nodephilly
       1 #NoDaddySQL
       1 #Nimbuzz
+      1 #nh
       1 #newsletter
       1 #newmeetup
       1 #newbie
+      1 #NetPres
       1 #NetBeans
       1 #NET
+      1 #NERDCenter
       1 #nerd
+      1 #NEDB13
+      1 #nedb13
       1 #nedb12
+      1 #navigating_universe
       1 #Natty
+      1 #nativememory
       1 #NashDotNet
       1 #NASA
       1 #NAS
+      1 #narcissisticdesign
       1 #NARA
       1 #mytap
       1 #MySQLworkbench
@@ -863,10 +1028,12 @@
       1 #MysQL
       1 #mysqconf
       1 #MyISAM
+      1 #music
       1 #Munchen
       1 #Mumbai
       1 #multimaster
       1 #multidimensional
+      1 #multichannel
       1 #MSWindows
       1 #MSOpenTech
       1 #msexcel
@@ -886,20 +1053,27 @@
       1 #MongoDb
       1 #mongo
       1 #momentum
+      1 #mobility
+      1 #mobilePOS
       1 #MMS
+      1 #MMO
       1 #mmm
+      1 #mlsnft
       1 #misultin
       1 #misappliedSlogan
       1 #MiraclesHappen
       1 #minutewith
       1 #Minneapolis
       1 #Milestone
+      1 #MikeStonebraker
       1 #MIKEPodcast
       1 #migrate
       1 #MicrosoftAccess
+      1 #microsoft
       1 #mhacks
       1 #meteorjs
       1 #merkletree
+      1 #MemSizePlan
       1 #Memcached
       1 #MEM
       1 #Meetup
@@ -910,6 +1084,7 @@
       1 #marketingtech
       1 #MarchMadness
       1 #marchmadness
+      1 #Marathon
       1 #MapServer
       1 #mapreduce
       1 #mapquery
@@ -924,7 +1099,6 @@
       1 #M2M
       1 #Lyon
       1 #lusd
-      1 #Lua
       1 #lua
       1 #lspe
       1 #LSI
@@ -938,22 +1112,29 @@
       1 #Livingthedream
       1 #livelycouch
       1 #lisp
+      1 #LISA2011
+      1 #LISA12
+      1 #LISA11
       1 #linuxcon
       1 #linode
       1 #LinkedIn
       1 #likeaboss
       1 #Lifetime
+      1 #life
       1 #LevelUP
       1 #LevelSync
       1 #LevelGraph
       1 #LevelDb
       1 #levelDB
+      1 #learning
       1 #leanstartup
       1 #ldstech
+      1 #lazy
       1 #LaunchConf2013
       1 #latech
       1 #large
       1 #langdev
+      1 #lajug
       1 #L9
       1 #L36
       1 #L201
@@ -967,15 +1148,19 @@
       1 #Kanso
       1 #Kaleidoscope
       1 #jwc12
+      1 #JW12
       1 #jvm
       1 #justkidding
+      1 #justanotherday
       1 #jsonrepresents
       1 #jsonld
       1 #jsmeetup
       1 #jsla
       1 #JS
       1 #js
+      1 #jruby
       1 #jQuery
+      1 #Joyent
       1 #joyent
       1 #Jongo
       1 #joeseph
@@ -985,16 +1170,22 @@
       1 #jjug_ccc
       1 #Jiffy
       1 #jfokus2013
+      1 #jfokus
       1 #jeffdeanfacts
       1 #Jedis
       1 #jboss
       1 #Javascript
+      1 #javadoc
+      1 #JasperWorld
+      1 #Jasperworld
       1 #Japanese
       1 #japan
       1 #jan
       1 #IT
+      1 #iswc2012
       1 #Istanbul
       1 #Israel
+      1 #isp
       1 #is4cwn
       1 #ipc11
       1 #ipad
@@ -1005,6 +1196,8 @@
       1 #Internet
       1 #innodb
       1 #Ingenico
+      1 #infosec
+      1 #Infobright
       1 #India
       1 #index_list
       1 #indexeddb
@@ -1014,6 +1207,9 @@
       1 #ietf89
       1 #icapsummit
       1 #ibmcloud
+      1 #iasa
+      1 #HStore
+      1 #hstore
       1 #howto
       1 #hosting
       1 #hoodie
@@ -1024,20 +1220,33 @@
       1 #himss
       1 #Hike
       1 #higfive
+      1 #henning
+      1 #Hekaton
       1 #Hebrew
+      1 #Heartbleed
       1 #healthIT
+      1 #healthcare
       1 #Haskell
+      1 #Harvard
       1 #happyfriday
       1 #happy
       1 #Halloween
+      1 #halloway
       1 #HallofFame
+      1 #HadoopWorld
+      1 #Hadapt
+      1 #hadapt
+      1 #hackreduce
       1 #hackPR
-      1 #hackathon
+      1 #HackerNews
       1 #HACK
+      1 #hack
+      1 #H
       1 #GWOcon
       1 #GSoC2014
       1 #gsoc14
       1 #gridsql
+      1 #Greenplum
       1 #graphdatabase
       1 #graduation
       1 #govote
@@ -1050,8 +1259,6 @@
       1 #Golang
       1 #go
       1 #GlassFish
-      1 #github
-      1 #git
       1 #GIS
       1 #gigaomlive
       1 #get
@@ -1067,7 +1274,9 @@
       1 #gary
       1 #GameofThrones
       1 #Gameofthrones
+      1 #Gamedev
       1 #gamedesign
+      1 #FutureOSS
       1 #Futon2
       1 #Futon
       1 #Fusionio
@@ -1075,11 +1284,14 @@
       1 #funtowrite
       1 #funfact
       1 #FunctionalProgrammingFTW
+      1 #functionaldatabase
+      1 #functional
       1 #funconf
       1 #funcoding
       1 #Fuel
       1 #FUD
       1 #fsharp
+      1 #fressian
       1 #freshblogged
       1 #FreeSWITCH
       1 #FreeBSD
@@ -1097,28 +1309,29 @@
       1 #fodem
       1 #flume
       1 #FLISOL
+      1 #Flickr
       1 #FinTechHack
       1 #FinTech
       1 #Fintech
       1 #finserv
+      1 #financialservices
       1 #filtering
       1 #file
       1 #FIFA
-      1 #FF
-      1 #ff
       1 #feelsgood
       1 #feedbackisagift
       1 #fedora
       1 #fauxton
+      1 #fast
       1 #F5
       1 #experiencedurability
-      1 #excited
       1 #evostar2012
       1 #evently
       1 #EuRuKo
       1 #europython
       1 #europe
-      1 #EUC2012
+      1 #EUC2013
+      1 #EUC12
       1 #eu
       1 #etoomuchcouchdb
       1 #esper
@@ -1127,14 +1340,18 @@
       1 #ErlangDC
       1 #Erica
       1 #eric
+      1 #entities
       1 #enterpriseireland
       1 #enterprise2
+      1 #EngineeringUpdate
       1 #engineering
       1 #EmberJS
+      1 #emaResearch
       1 #elixirlang
       1 #Elasticsearch
       1 #elasticsearch
       1 #Ektorp
+      1 #ecosystem
       1 #eCommerce
       1 #Eclipse
       1 #Ebook
@@ -1142,8 +1359,10 @@
       1 #dws
       1 #Dubai
       1 #DTrace
+      1 #Dsseldorf
       1 #droidconuk
       1 #Dreamforce
+      1 #DrAuntBea
       1 #DotNet
       1 #doorknob
       1 #doingthegoodthing
@@ -1153,12 +1372,14 @@
       1 #docorient
       1 #Docker
       1 #docker
+      1 #dmradio
       1 #django
       1 #diycloud
       1 #DistributedSystems
       1 #distributeddatabase
       1 #distributeddata
       1 #distributed
+      1 #Disney
       1 #DF13
       1 #devroom
       1 #DevoxxUK
@@ -1169,7 +1390,6 @@
       1 #devopsatl
       1 #devlink
       1 #Development
-      1 #developerWorks
       1 #DevCon5
       1 #dev
       1 #designer
@@ -1179,15 +1399,21 @@
       1 #deliciousbackup
       1 #Debian
       1 #ddt13
+      1 #DDoS
       1 #dcphp
       1 #dcgs
       1 #dcc11
       1 #DC
+      1 #DBTA100
+      1 #DBTA
+      1 #dbma
       1 #DBI
       1 #DBAs
-      1 #Datomic
+      1 #db2
+      1 #dayofdatomic
       1 #dataweek2013
       1 #dataviz
+      1 #datavisualization
       1 #datastream
       1 #dataexplorer
       1 #dataconf
@@ -1195,10 +1421,10 @@
       1 #data2con
       1 #damnyouautocorrect
       1 #damndata
-      1 #D
       1 #Customer
       1 #curmudgeon
       1 #ctosummit
+      1 #CTO
       1 #CSS
       1 #CSharp
       1 #CRM
@@ -1217,6 +1443,7 @@
       1 #Cordova
       1 #coralreefmobile
       1 #Copenhagen
+      1 #coolbelgians
       1 #convertingtheworldtoPGSQL
       1 #content
       1 #conspiracytheory
@@ -1225,6 +1452,8 @@
       1 #Conference
       1 #compaction
       1 #commonlisp
+      1 #Columnar
+      1 #column
       1 #Colorado
       1 #cologne
       1 #collectd
@@ -1237,16 +1466,17 @@
       1 #clusters
       1 #cluster
       1 #cloudpanel
+      1 #CloudExpo
       1 #CloudDC
       1 #cloudconf
       1 #CloudantConf
+      1 #clojurescript
       1 #client
       1 #Cleveland
       1 #CLEUR
       1 #ckan
       1 #civichacking
       1 #CiscoLiveEurope
-      1 #CIO
       1 #CI
       1 #chkconfig
       1 #Cheminformatics
@@ -1262,6 +1492,7 @@
       1 #certifications
       1 #Certification
       1 #certification
+      1 #CEP
       1 #Centos
       1 #Census
       1 #CD
@@ -1274,6 +1505,7 @@
       1 #cassandraEU
       1 #Cassandra13
       1 #cassandra13
+      1 #CaseStudyU
       1 #casestudies
       1 #Casbah
       1 #cary
@@ -1306,11 +1538,13 @@
       1 #braziljs
       1 #Brazil
       1 #bostontech
-      1 #Boston
+      1 #bostondatafestival
       1 #boston
       1 #bookmarks
       1 #boise
       1 #Bohconf
+      1 #bnt28
+      1 #BNT27
       1 #bluebox
       1 #bloodyfast
       1 #blogpost
@@ -1319,14 +1553,16 @@
       1 #Bitkom
       1 #bitkom
       1 #bitcoin
+      1 #bigquery
       1 #BigDataWeek
       1 #bigcouch
-      1 #Big
+      1 #big
       1 #betahaus
       1 #BenConf
-      1 #benchmark
+      1 #benchmarks
       1 #Belgium
       1 #befair
+      1 #Beer
       1 #beer
       1 #BeakPi
       1 #Be2
@@ -1334,6 +1570,7 @@
       1 #bcda
       1 #bcd9
       1 #bbuzz2011
+      1 #BBQ
       1 #Bazaar
       1 #bastacon
       1 #BackupDay
@@ -1344,7 +1581,6 @@
       1 #AYB13
       1 #axzz2t3572jZf
       1 #aww
-      1 #awesomeness
       1 #avidgeo
       1 #aviation
       1 #Avatar
@@ -1355,6 +1591,7 @@
       1 #atlanta
       1 #async
       1 #asterisk
+      1 #asterdata
       1 #Asia
       1 #as3couchdb
       1 #aridea
@@ -1362,9 +1599,11 @@
       1 #ArchLinux
       1 #arangodb
       1 #arabic
-      1 #apps
-      1 #application
+      1 #appsec
       1 #applesvsoranges
+      1 #app
+      1 #apm
+      1 #APIs
       1 #ApacheCouchDB
       1 #apache2
       1 #anthony
@@ -1380,28 +1619,34 @@
       1 #altdotnet
       1 #allthehashtags
       1 #Air
+      1 #Agile
+      1 #agile
       1 #agenda
+      1 #AdTech
       1 #ADO
       1 #ADN
       1 #adessoAG
       1 #Adam_Kocoloski
       1 #Adalovelaceday
+      1 #ACID
       1 #Access
       1 #Abode
       1 #ab
+      1 #a14
       1 #939
       1 #931
       1 #9
+      1 #877K
       1 #828
       1 #804
       1 #8
       1 #754
+      1 #695k
       1 #633
-      1 #6
       1 #594
       1 #547
       1 #5
-      1 #4
+      1 #4961530
       1 #3G
       1 #23
       1 #22
