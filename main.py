@@ -17,7 +17,7 @@ def main():
     filetext = text.read()
     text.close()
 
-    mdict = MarkovDict(filetext, int(2), 122)
+    mdict = MarkovDict(filetext, int(2), 128)
     mdict.read_text()
     markov_text = mdict.output_text()
     for x in ["redis", "mariadb", "mysql", "postgresql", "couchdb"]:
