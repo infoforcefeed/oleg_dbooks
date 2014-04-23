@@ -67,17 +67,18 @@ def main():
     output = open("prepared2.html", "w")
     all_ps = soup.find_all("p")
     print "Number of <p> tags found: {}".format(len(all_ps))
-    all_lines = [x.get_text().encode("ascii", errors="replace") for x in all_ps]
+    all_lines = [x.get_text().encode("ascii", errors="ignore") for x in all_ps]
     print "Number of lines found: {}".format(len(all_lines))
     all_text = "\n".join(all_lines)
     output.write(all_text)
     output.close()
 
-    to_replace = ["postgres", "mongo", "couch", "riak", "basho", "level",
-                  "cassandra", "mysql", "maria", "redis", "rethink", "inno"]
+    to_replace = ["@?postgres", "@?mongo", "@?couch", "@?riak", "@?basho", "@?level",
+                  "@?cassandra", "@?mysql", "@?maria", "@?redis", "@?rethink", "@?inno",
+                  "@?volt", "@?datomic"]
     for item in to_replace:
         regex = re.compile(item, re.IGNORECASE)
-        all_text = regex.sub("Oleg", all_text)
+        all_text = regex.sub("Oleg", all_text) # This is Oleg and not OlegDB for a reason
 
     regex = re.compile(r"@[\w]+")
     all_text = regex.sub(random_moon, all_text)
