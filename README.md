@@ -12,6 +12,12 @@ file. Then:
 cp prepared4.txt redone_final.txt
 ````
 
+`hashtags.txt` was generated with the following:
+
+```bash
+grep -o '#\w\+' prepared2.html | sort | uniq -c | sort -g -r > hashtags.txt
+````
+
 Running
 -------
 
