@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 from bs4 import BeautifulSoup
+from datetime import datetime
 import re, random
 
 moons = [
@@ -59,8 +60,9 @@ def random_moon(matchobj):
     return "#" + random.sample(moons, 1)[0]
 
 def random_mayo(matchobj):
-    if random.randint(0, 100) < 10:
-        return "#mayo"
+    if random.randint(0, 100) < 5:
+        possible = ["#spider", "#mayo"]
+        return random.sample(possible, 1)[0]
     else:
         return matchobj.group(0)
 
@@ -85,6 +87,12 @@ def main():
     for item in to_replace:
         regex = re.compile(item, re.IGNORECASE)
         all_text = regex.sub("Oleg", all_text) # This is Oleg and not OlegDB for a reason
+
+    for item in range(2000, datetime.now().year):
+        year_str = r"{}".format(item)
+        current_year_str = r"{}".format(datetime.now().year)
+        regex = re.compile(year_str, re.IGNORECASE)
+        all_text = regex.sub(current_year_str, all_text) # This is Oleg and not OlegDB for a reason
 
     regex = re.compile(r"@[\w]+")
     all_text = regex.sub(random_moon, all_text)
