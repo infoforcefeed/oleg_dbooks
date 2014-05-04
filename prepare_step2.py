@@ -60,7 +60,7 @@ def random_moon(matchobj):
     return "#" + random.sample(moons, 1)[0]
 
 def random_mayo(matchobj):
-    if random.randint(0, 100) < 5:
+    if random.randint(0, 100) < 10:
         possible = ["#spider", "#mayo"]
         return random.sample(possible, 1)[0]
     else:
@@ -98,7 +98,7 @@ def main():
     all_text = regex.sub(random_moon, all_text)
     regex = re.compile(r"#[\w]+")
     all_text = regex.sub(random_mayo, all_text)
-    regex = re.compile(r"[\?:\(\s^]?.https?:\/\/[\w\.\/\)\?\d]*")
+    regex = re.compile(r"[\?:\(\s^]?.?https?:\/\/[\w\.\/\)\?\d&=-]*")
     all_text = regex.sub("", all_text)
 
     output = open("prepared3.txt", "w")
